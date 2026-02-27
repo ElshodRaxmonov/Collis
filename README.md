@@ -27,10 +27,11 @@
 
 <p align="center">
   <img src="screenshots/home.png" width="180" />
-  <img src="screenshots/schedule.png" width="180" />
+  <img src="screenshots/schedule_dark.png" width="180" />
   <img src="screenshots/task.png" width="180" />
   <img src="screenshots/alarm.png.png" width="180" />
   <img src="screenshots/profile.png" width="180" />
+  <img src="screenshots/notification.png" width="180" />
 </p>
 
 ---
